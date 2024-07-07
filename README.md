@@ -71,18 +71,4 @@ Thapar Institute of Engineering and Technology (TIET), Punjab, India (Jul 2017 -
 - **Excel Skills for Business: Essentials** - Macquarie University, Coursera
 - **Writing Skills for Engineering Leaders** - Rice University, Coursera
 
-## Repository Structure
-```plaintext
-.
-├── README.md
-├── Resume
-│   └── Kanika_Gandhi_Resume.pdf
-├── Projects
-│   ├── MachineLearning
-│   │   └── Project1
-│   ├── Cybersecurity
-│   │   └── Project1
-│   └── Database
-│       └── Project1
-└── ResearchPapers
-    └── Paper1
+
