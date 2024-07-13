@@ -1,5 +1,3 @@
-Sure, here's the updated version with a section for research papers added:
-
 
 # Kanika Gandhi's Professional Portfolio
 
@@ -30,7 +28,7 @@ Thapar Institute of Engineering and Technology (TIET), Punjab, India (Jul 2017 -
 - **Work Ethic**: Teamwork, leadership, strong written and verbal communication skills, collaborative, organizational skills, and self-motivated.
 
 ## Professional Experience
-### Senior Executive – Quality Assurance
+### Senior Executive 
 **SAMSUNG SDS, Haryana, India** (Oct 2021 - Jul 2022)
 
 ### Intern
@@ -41,7 +39,7 @@ Thapar Institute of Engineering and Technology (TIET), Punjab, India (Jul 2017 -
 
 ## Academic Projects
 
-### Cybersecurity
+### Cybersecurity [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Cyber%20Security)
 - BeEFing with PhishNet
 - Building Resilience Against DDoS Attacks
 - CVE- Dirty Pipe Analysis Report
