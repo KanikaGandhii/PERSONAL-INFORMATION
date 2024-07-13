@@ -39,7 +39,7 @@ Thapar Institute of Engineering and Technology (TIET), Punjab, India (Jul 2017 -
 
 ## Academic Projects
 
-### Cybersecurity [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Cyber%20Security)
+### Cybersecurity - [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Cyber%20Security)
 - BeEFing with PhishNet
 - Building Resilience Against DDoS Attacks
 - CVE- Dirty Pipe Analysis Report
@@ -47,15 +47,15 @@ Thapar Institute of Engineering and Technology (TIET), Punjab, India (Jul 2017 -
 - Combating Phishing Attacks- Research Analysis
 - Image Steganography
 
-### Database Management
+### Database Management - [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Database%20Management)
 - Data Driven Optimization of Hospital Operations
 - Identification and Detection of Denial-of-Service Attacks to Develop Secure Software Systems
 
-### Machine Learning
+### Machine Learning - [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Machine%20Learning)
 - COVID-19 Infections Image Classification Using Simplified Convolutional Neural Network
 - Predicting Parkinson's: Ensemble Learning with Vocal Biomarkers
 
-### Risk Assessment
+### Risk Assessment - [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Risk%20Assessment/Oil%20company's%20loss%20during%20Russia-Ukraine%20conflict)
 - Oil Company's Loss During Russia-Ukraine Conflict
 
 ## Research Papers
