@@ -2,7 +2,7 @@
 # Kanika Gandhi's Professional Portfolio
 
 ## About Me
-Hello! I'm Kanika Gandhi, a dedicated software engineer specializing in cybersecurity, quality assurance, and software development. I hold a Master of Engineering in Software Engineering from Western University and a Bachelor of Engineering in Computer Engineering from Thapar Institute of Engineering and Technology.
+Hello! I'm Kanika Gandhi, a dedicated software engineer specializing in machine learning, cybersecurity, quality assurance, and software development. I hold a Master of Engineering in Software Engineering from Western University and a Bachelor of Engineering in Computer Engineering from Thapar Institute of Engineering and Technology.
 
 ## Contact Information
 - Email: [kanika.gandhi30@gmail.com](mailto:kanika.gandhi30@gmail.com)
@@ -19,8 +19,8 @@ Thapar Institute of Engineering and Technology (TIET), Punjab, India (Jul 2017 -
 
 ## Technical Skills
 - **Cybersecurity**: Advanced in Burp Suite, Wireshark, BeEF, Kali Linux, Lucid Chart, Microsoft Word, Excel, PowerPoint, and Postman; Proficient in NMAP, HTML, CSS, Shell Script, Bash, C
-- **Machine Learning**: Proficient in Python, Neural Networks
-- **Database Management**: Advanced in SQL; Proficient in PostgreSQL
+- **Machine Learning**: Proficient in Python, Neural Networks, C++ Programming, TensorFlow, PyTorch, Jupyter Notebooks (IPYNB), Google Colab, Scikit-learn, Ensemble Learning, Data Visualization and Model Optimization
+- **Database Management**: Advanced in SQL; Proficient in PostgreSQL, MySQL and Oracle!
 - **Project Management**: Advanced in JIRA, Microsoft Project
 
 ## Soft Skills
@@ -39,6 +39,10 @@ Thapar Institute of Engineering and Technology (TIET), Punjab, India (Jul 2017 -
 
 ## Academic Projects
 
+### Machine Learning - [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Machine%20Learning)
+- COVID-19 Infections Image Classification Using Simplified Convolutional Neural Network
+- Predicting Parkinson's: Ensemble Learning with Vocal Biomarkers
+  
 ### Cybersecurity - [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Cyber%20Security)
 - BeEFing with PhishNet
 - Building Resilience Against DDoS Attacks
@@ -50,10 +54,6 @@ Thapar Institute of Engineering and Technology (TIET), Punjab, India (Jul 2017 -
 ### Database Management - [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Database%20Management)
 - Data Driven Optimization of Hospital Operations
 - Identification and Detection of Denial-of-Service Attacks to Develop Secure Software Systems
-
-### Machine Learning - [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Machine%20Learning)
-- COVID-19 Infections Image Classification Using Simplified Convolutional Neural Network
-- Predicting Parkinson's: Ensemble Learning with Vocal Biomarkers
 
 ### Risk Assessment - [Link](https://github.com/KanikaGandhii/PROJECTS/tree/main/Risk%20Assessment/Oil%20company's%20loss%20during%20Russia-Ukraine%20conflict)
 - Oil Company's Loss During Russia-Ukraine Conflict
